@@ -1,6 +1,6 @@
 <body>
-    <a href="https://huggingface.co" class="hf-button">
-        <img src="/api/placeholder/16/16" alt="🤗">
+    <a href="https://huggingface.co/syubraj/sentence_similarity_nepali_v2">
+        <img src="" alt="🤗">
         Open in Hugging Face
     </a>
 </body>
